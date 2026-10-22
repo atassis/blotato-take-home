@@ -31,3 +31,7 @@ The main design covers the requested flow. Material-version quotas, repeat-reque
 ## Status
 
 This is a design submission, not a running application. There are no setup commands, benchmarks, or executable tests. The proposed guarantees depend on implementation and verification of the integration contracts identified in the design.
+
+## Easter Egg =)
+
+I used to write functional Typesctipt with Ramda
